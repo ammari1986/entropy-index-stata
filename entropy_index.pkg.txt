@@ -1,8 +1,0 @@
-v 1
-d Entropy Index Program for Stata
-p entropy_index Construct a composite index using the entropy method
-f entropy_index.ado
-h entropy_index.sthlp
-d Distribution-Date 2023-10-XX
-d Author Your Name <your.email@example.com>
-d Support https://github.com/ammari1986/entropy-index-stata
