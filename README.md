@@ -1,4 +1,4 @@
-Entropy Index Program for Stata
+##  Entropy Index Program for Stata
 
 This repository contains a Stata program (`entropy_index`) that implements the Entropy Method to construct a composite index. The entropy method is widely used in data analysis to assign weights to indicators based on their variability (entropy). This program automates the process of normalization, entropy calculation, weight derivation, and composite index construction.
 
@@ -31,13 +31,6 @@ This repository contains a Stata program (`entropy_index`) that implements the E
    - **Windows**: `C:/Users/YourName/Documents/Stata/ado/personal/`
    - **Mac/Linux**: `~/ado/personal/`
 3. Restart Stata to load the program.
-
-### Option 2: Install Directly from GitHub
-Run the following commands in Stata to install the program directly:
-```stata
-net install entropy_index, from("https://raw.githubusercontent.com/ammari1986/entropy-index-stata/main")
-```
-
 ---
 
 ## Usage
