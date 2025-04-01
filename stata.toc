@@ -1,0 +1,5 @@
+v 1
+d Entropy Index Program for Stata
+p entropy_index Construct a composite index using the entropy method
+f entropy_index.ado
+h entropy_index.sthlp
